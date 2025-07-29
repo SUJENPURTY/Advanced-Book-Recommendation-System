@@ -1,7 +1,4 @@
-# Advanced-Book-Recommendation-System
-📚 Advanced Book Recommendation System
-
-# End-to-End-Book-Recommender-System
+# 📚 Advanced Book Recommendation System
 
 ## Workflow
 
